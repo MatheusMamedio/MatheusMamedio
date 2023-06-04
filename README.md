@@ -13,12 +13,36 @@
 
 [<img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/jmatheus_mamedio/)
 <a href = "mailto:matheusmamedio8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
- <a id="linkedin" href="https://www.linkedin.com/in/matheusmamedio/">
+<a id="linkedin" href="https://www.linkedin.com/in/matheusmamedio/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a id="coderank" href="https://profile.codersrank.io/user/italo-mauricio">
+<a id="coderank" href="https://profile.codersrank.io/user/matheusmamedio">
+   ![CodersRank](https://img.shields.io/static/v1?style=for-the-badge&message=CodersRank&color=67A4AC&logo=CodersRank&logoColor=FFFFFF&label=)
+</a>
+
   
- 
+ <h2>Skills:</h2>
+
+<table align="center">
+
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Java
+       </td>
+    <td align="center" width="96">
+      <a href="#git" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
 
  
